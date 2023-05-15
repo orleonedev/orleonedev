@@ -10,7 +10,7 @@ Hello, I’m Oreste Leone, a Software and Game Developer. I have a strong backgr
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=orleonedev&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=orleonedev&theme=onedark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orleonedev&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=orleonedev&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&hide_progress=true&langs_count=10)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=orleonedev&icon=8&color=4)](https://visitcount.itsvg.in)
