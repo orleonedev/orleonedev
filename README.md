@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫👾📱 About Me:
 Hello, I’m Oreste Leone, iOS Engineer and Game Developer with a background in Computer Science at University of Naples Federico II, and I'm based in Naples, Italy.
 
 Being a member of Lapse Games, a small Indie Game Development Team, so far has been an exciting journey. We achieved significant milestones with the Lapse Trilogy, which has garnered over 15 million downloads on both the App Store and Google Play. My role involved conceptualizing the trilogy and collaborating with the team and external freelancers to create engaging and intuitive gaming experiences.
